@@ -1,8 +1,8 @@
-﻿Comfoolery使用说明
+comfoolery使用说明
 ==================
 By sunnogo
 
-本工具来自互联网。
+本工具来自[brianpoe](www.brianpoe.com/comfoolery/), 目前该网站跳转至[poehome.com/comfoolery](http://www.poehome.com/comfoolery/index.html)，不过后者无响应。
 
 功能描述
 --------
